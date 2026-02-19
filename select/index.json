@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "俺にしか",
+  "base_artist": "Tee Shyne",
+  "createdAt": "2026-02-19T13:59:26.490117Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "俺にしか",
+      "artist": "Tee Shyne",
+      "has_synced": false,
+      "path": "select/pl_01_俺にしか_Tee_Shyne.txt"
+    }
+  ]
+}
